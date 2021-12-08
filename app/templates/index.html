@@ -7,6 +7,13 @@
     <title>PrivateChat</title>
 </head>
 <body>
+    <div>
+        Chat App:
+        <a href="/">Home</a>
+        <a href="/login">Login</a>
+    </div>
     <h1>This is the Private Chat App</h1>
+    {% if {title} %}
+    {% block content %}{% endblock %}
 </body>
 </html>
