@@ -1,0 +1,6 @@
+config==0.5.1
+Flask==2.2.3
+flask_login==0.6.2
+flask_sqlalchemy==3.0.3
+flask_wtf==1.1.1
+WTForms==3.0.1
