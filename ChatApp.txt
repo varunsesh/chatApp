@@ -1,0 +1,10 @@
+
+Chat app strategy
+
+A group consists of two or more persons
+Each person can post in the group that they are a part of.
+Individuals must sign up to create a user. 
+Once a user has been created they can register for groups. Or create groups. 
+Group creator will by default be the admin of the group
+Can send out invites to members to join groups.
+Individuals landing page/dashboard will display groups that they are a part off.
